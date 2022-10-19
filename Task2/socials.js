@@ -1,5 +1,6 @@
 [
     Rastogi_socials = {
-        "instagram": "Prathampvtx"
+        "instagram": "_keshav_malik",
+        "linkedin": "keshavmalik0"
     }
 ] 
