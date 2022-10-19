@@ -1,3 +1,3 @@
 [
-    ["The Northcap University", "Bachelor of Technology", "2020", "present"],
+    ["ABESIT College Of Engineering", "Bachelor of Technology", "2021", "present"]
 ]
